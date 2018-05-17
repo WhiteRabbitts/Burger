@@ -1,3 +1,4 @@
+
 // Pull in required dependencies
 var mysql = require('mysql');
 
