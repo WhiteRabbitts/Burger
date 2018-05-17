@@ -1,5 +1,4 @@
-INSERT INTO burgers (burgername, devoured) VALUES ('Bacon Cheeseburgers', true);
-
-INSERT INTO burgers (burgername, devoured) VALUES ('Egg Burger', true);
-
-INSERT INTO burgers (burgername, devoured) VALUES ('Veggie Burger', true);
+-- Creating seed data for the burgers_db database --
+INSERT INTO burgers (burger_name, devoured) VALUES ('Double Bacon Cheeseburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Triple-Stacked Avocado Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Cali-Chicken Cheeseburger', false);
